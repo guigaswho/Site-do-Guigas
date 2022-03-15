@@ -1,0 +1,176 @@
+/*Limpando os trem
+*{
+    margin: 0;
+    padding: 0;
+}*/
+
+
+
+a{
+    text-decoration: none;
+}
+
+a:link, a:visited{
+    color: #D5CD64;
+    padding: 5px 7px;
+}
+
+
+
+
+a:hover{
+    background-color: #D5CD64;
+    color: #615F4B;
+}
+
+.fotos img:hover{
+    transform: scale(1.05);
+}
+
+
+
+.fotos{
+    padding-left: 2px;
+    padding-top: 80px;
+    float: left;
+    
+    
+}
+
+.borda{
+    border: 4px solid #D5CD64;
+}
+
+body{
+    background: #E0DDAD;
+    font-family: monospace,'Courier New', Courier, monospace;
+}
+
+#header{
+    background-color: #4D4A24;
+    height: 100px;
+    text-align: center;
+    padding: 20px auto;
+}
+
+#trem{
+    padding-top: 12px;
+}
+
+
+
+h1{
+    color: #D5CD64;
+    padding: 6px;
+    font-size:25px;
+    text-align: center;
+
+}
+
+h2{
+    color: #CCC34B;
+    font-size:30px;
+    text-align: center;
+}
+
+
+.resenha{
+    padding-top: 80px;
+}
+
+.paddingrp{
+    padding-top: 30px;
+}
+
+
+
+.imgbig{
+    display: block;
+    
+    margin: auto auto;
+}
+
+
+ 
+#central{
+    background-color: #E0DDAD;
+    margin: auto;
+    height: 360px;
+    width: 410px;
+    border: 4px solid #D5CD64;
+}
+
+
+#centralgame{
+    background-color: #999776;
+    margin: auto;
+    height: auto;
+    width: 700px;
+    border: 4px solid #D5CD64;
+    
+}
+
+.classgame{background-color: #999776;
+margin: auto;
+width: 700px;
+border: 4px solid #D5CD64;
+}
+
+
+
+
+
+#centralmovie{
+    background-color: #999776;
+    margin: auto;
+    height: 360px;
+    width: 410px;
+    border: 2px solid #D5CD64;
+}
+
+
+#centralmusic{
+    background-color: #999776;
+    margin: auto;
+    height: 360px;
+    width: 410px;
+    border: 2px solid #D5CD64;
+}
+
+
+#centralplaces{
+    background-color: #999776;
+    margin: auto;
+    height: 360px;
+    width: 410px;
+    border: 2px solid #D5CD64;
+}
+
+
+
+#left{
+    font-size: 13px;
+    color: #615F4B;
+    float: left;
+    padding: 12px 12px 12px 60px;
+    
+}
+
+#right{
+    font-size: 13px;
+    color: #615F4B;
+    float: right;
+    padding: 12px 60px 12px 12px;
+}
+
+p{
+    font-size: 18px;
+    text-align: center;
+}
+
+
+.rodape{
+    background-color: #4D4A24;
+    height: 20px;
+    color: #D5CD64;
+}
